@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Koya](https://www.bt21.com/img/char_intro_08_v2.gif)
