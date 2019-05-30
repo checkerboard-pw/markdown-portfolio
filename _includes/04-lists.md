@@ -8,4 +8,3 @@ Other things:
 - Uncontrollable mind and unexecuted ideas
 - ..more salt.
 
-this list will be updated in the unlikely times when I actually decide to
